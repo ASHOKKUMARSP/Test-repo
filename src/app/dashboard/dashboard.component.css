@@ -1,0 +1,11 @@
+header#MyHeaderControl {
+    height: 70vh;
+    width: 100%;
+    background-image: url("https://images.pexels.com/photos/1055297/pexels-photo-1055297.jpeg?auto=compress&cs=tinysrgb&h=650&w=940");
+    background-repeat: no-repeat;
+    background-position: center 16px;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+}
